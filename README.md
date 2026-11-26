@@ -75,6 +75,10 @@ pribin:
 <img src="assets/section-ai.svg" width="100%" alt="ai" />
 
 <p align="center">
+  <a href="https://github.com/PRIBINKBENNY/15-mcp-taint-guard"><img src="assets/cards/15-mcp-taint-guard.svg" width="49%" alt="15-mcp-taint-guard" /></a>
+  <a href="https://github.com/PRIBINKBENNY/14-stair-rag"><img src="assets/cards/14-stair-rag.svg" width="49%" alt="14-stair-rag" /></a>
+</p>
+<p align="center">
   <a href="https://github.com/PRIBINKBENNY/agent-hq"><img src="assets/cards/agent-hq.svg" width="49%" alt="agent-hq" /></a>
   <a href="https://github.com/PRIBINKBENNY/01-rag"><img src="assets/cards/01-rag.svg" width="49%" alt="01-rag" /></a>
 </p>
@@ -88,6 +92,12 @@ pribin:
 </p>
 
 <img src="assets/section-gallery.svg" width="100%" alt="gallery" />
+
+<p align="center">
+  <a href="https://github.com/PRIBINKBENNY/15-mcp-taint-guard"><img src="https://raw.githubusercontent.com/PRIBINKBENNY/15-mcp-taint-guard/main/docs/timeline.png" width="49%" /></a>
+  <a href="https://github.com/PRIBINKBENNY/14-stair-rag"><img src="https://raw.githubusercontent.com/PRIBINKBENNY/14-stair-rag/main/docs/ask_flask.png" width="49%" /></a>
+</p>
+<p align="center"><sub><b>15-mcp-taint-guard</b>: flight recorder blocking a phishing exfiltration · <b>14-stair-rag</b>: walking a PDF's table of contents to page 61</sub></p>
 
 <table>
 <tr>

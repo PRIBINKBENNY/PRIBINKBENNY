@@ -7,6 +7,12 @@ FONT = "Segoe UI, Helvetica, Arial, sans-serif"
 MONO = "SFMono-Regular, Consolas, Menlo, monospace"
 
 PROJECTS = [
+    ("15-mcp-taint-guard", "MCP Taint Guard", "AI SECURITY · AGENTS",
+     "MCP gateway that tracks where secrets flow and blocks prompt-injection exfiltration",
+     "16/17 attacks stopped · 8/8 tasks work", ["MCP", "Taint", "Security"], ("#f43f5e", "#f59e0b"), "shield"),
+    ("14-stair-rag", "STAIR-RAG", "AI · RETRIEVAL RESEARCH",
+     "Finds the right PDF section by walking its table of contents, on a laptop CPU",
+     "agree → right 70% of the time", ["STAIR", "BM25", "PDF"], ("#22d3ee", "#a78bfa"), "toc"),
     # slug, title, kicker, one-liner (2 lines max), metric, tags, accent pair, glyph
     ("13-gait-evolution", "Gait Evolution", "ROBOTICS · OPTIMISATION",
      "Evolves walking gaits for a 12-servo robot dog with from-scratch CMA-ES",
@@ -69,6 +75,8 @@ def glyph(kind, c):
         "chart": f'<g {s}><path d="M4 36h32"/><rect x="8" y="22" width="5" height="14"/><rect x="18" y="12" width="5" height="24"/><rect x="28" y="4" width="5" height="32"/></g>',
         "chip": f'<g {s}><rect x="10" y="10" width="20" height="20" rx="3"/><path d="M15 4v6M25 4v6M15 30v6M25 30v6M4 15h6M4 25h6M30 15h6M30 25h6"/></g>',
         "bolt": f'<path {s} d="M22 2L6 22h12l-2 16 16-20H20z"/>',
+        "shield": f'<g {s}><path d="M20 3l14 5v10c0 9-6 15-14 19C12 33 6 27 6 18V8z"/><path d="M14 19l4 4 8-9"/></g>',
+        "toc": f'<g {s}><path d="M6 8h28M10 16h24M14 24h20M10 32h24"/><circle cx="4" cy="8" r="1.5"/></g>',
     }[kind]
 
 
