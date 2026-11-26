@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="196" viewBox="0 0 420 196">
+<defs>
+  <linearGradient id="g03deploy" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#60a5fa"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+  <radialGradient id="r03deploy" cx="0.9" cy="0.1" r="0.8"><stop offset="0" stop-color="#a855f7" stop-opacity="0.35"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="1" y="1" width="418" height="194" rx="16" fill="#0d1117"/>
+<rect x="1" y="1" width="418" height="194" rx="16" fill="url(#r03deploy)"/>
+<rect x="1" y="1" width="418" height="194" rx="16" fill="none" stroke="url(#g03deploy)" stroke-width="1.6" stroke-opacity="0.8"/>
+<rect x="1" y="1" width="6" height="194" rx="3" fill="url(#g03deploy)"/>
+<g transform="translate(356,20)" opacity="0.95"><path fill="none" stroke="#60a5fa" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" d="M22 2L6 22h12l-2 16 16-20H20z"/></g>
+<text x="24" y="34" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="10.5" letter-spacing="1.6" fill="#60a5fa">AI · INFERENCE</text>
+<text x="24" y="64" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="25" font-weight="700" fill="#f0f6fc">LLM Serving</text>
+<text x="24" y="92" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#9da7b3"><tspan x="24" dy="0">Serve an open model with vLLM on a free T4 and</tspan><tspan x="24" dy="19">measure it properly</tspan></text>
+<text x="24" y="146" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="url(#g03deploy)">▸ TTFT · ITL · throughput</text>
+<rect x="24" y="160" width="43" height="22" rx="11" fill="#60a5fa" fill-opacity="0.14" stroke="#60a5fa" stroke-opacity="0.45"/><text x="45" y="175" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11.5" fill="#60a5fa">vLLM</text><rect x="74.8" y="160" width="64" height="22" rx="11" fill="#60a5fa" fill-opacity="0.14" stroke="#60a5fa" stroke-opacity="0.45"/><text x="107" y="175" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11.5" fill="#60a5fa">Latency</text><rect x="147.2" y="160" width="36" height="22" rx="11" fill="#60a5fa" fill-opacity="0.14" stroke="#60a5fa" stroke-opacity="0.45"/><text x="165" y="175" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11.5" fill="#60a5fa">GPU</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="64" viewBox="0 0 880 64">
+<defs><linearGradient id="sTechstack" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<text x="0" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="url(#sTechstack)">Tech stack</text>
+<text x="0" y="56" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12" fill="#8b949e">// tools I ship with</text>
+<rect x="0" y="60" width="880" height="2" rx="1" fill="url(#sTechstack)" opacity="0.35"/>
+<rect x="0" y="60" width="120" height="2" rx="1" fill="url(#sTechstack)"><animate attributeName="x" values="0;760;0" dur="8s" repeatCount="indefinite"/></rect>
+</svg>
