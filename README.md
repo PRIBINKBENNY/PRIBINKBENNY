@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Pribin%20K%20Benny&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20Robotics%20Engineer&descAlignY=58&descSize=18" alt="Pribin K Benny" />
+  <img src="assets/header.svg" width="100%" alt="Pribin K Benny, AI &amp; Robotics Engineer" />
 </p>
 
 <p align="center">
@@ -88,9 +88,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRIBINKBENNY&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PRIBINKBENNY&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
-</p>
 
 ### 🐍 Contribution snake
 
@@ -101,6 +98,3 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" />
-</p>
