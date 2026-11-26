@@ -194,7 +194,7 @@ def footer():
 
 def main():
     (OUT / "cards").mkdir(parents=True, exist_ok=True)
-    (OUT / "header.svg").write_text(header())
+    (OUT / "hero.svg").write_text(header())
     (OUT / "footer.svg").write_text(footer())
     for p in PROJECTS:
         (OUT / "cards" / f"{p[0]}.svg").write_text(card(*p))

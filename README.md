@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Pribin K Benny, AI &amp; Robotics Engineer" />
+  <img src="assets/hero.svg" width="100%" alt="Pribin K Benny, AI &amp; Robotics Engineer" />
 </p>
 
 <p align="center">
@@ -17,22 +17,11 @@
 
 <img src="assets/section-about.svg" width="100%" alt="about" />
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
-🤖 **AI & robotics engineer**, MSc AI & Robotics at the University of Hertfordshire (**Distinction**, 2025)
-
-🏅 **Young Indian Achiever 2025**, recognised in the British Parliament for AI and robotics research
-
-🦿 Building a **12-servo robot dog** end to end: inverse kinematics, evolved gaits, perception, fault detection
-
-🧠 Shipping **LLM systems that are measured**, not just demoed: RAG with citations, agents, eval harnesses, QLoRA
-
-🎓 **15+ Google ML/AI** certifications · **2 AWS Academy** certifications
-
-</td>
-<td width="42%" valign="top">
+- 🤖 **AI & robotics engineer**, MSc AI & Robotics at the University of Hertfordshire (**Distinction**, 2025)
+- 🏅 **Young Indian Achiever 2025**, recognised in the British Parliament for AI and robotics research
+- 🦿 Building a **12-servo robot dog** end to end: inverse kinematics, evolved gaits, perception, fault detection
+- 🧠 Shipping **LLM systems that are measured**, not just demoed: RAG with citations, agents, eval harnesses, QLoRA
+- 🎓 **15+ Google ML/AI** certifications · **2 AWS Academy** certifications
 
 ```yaml
 pribin:
@@ -44,10 +33,6 @@ pribin:
   open_to: [ml-engineer, robotics, embedded]
   motto:   "if it isn't measured, it isn't done"
 ```
-
-</td>
-</tr>
-</table>
 
 <img src="assets/section-stack.svg" width="100%" alt="stack" />
 
